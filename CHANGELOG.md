@@ -1,6 +1,11 @@
 Unreleased
 ----------
 
+21.1.0 (Oct 17, 2022)
+----------
+
+* Removes assumed `https` required to run locally. Support both `http` and `https` in backward compatible way. [#1518](https://github.com/Shopify/shopify_app/pull/1518)
+
 21.0.0 (Oct 3, 2022)
 ----------
 * Updating shopify_api gem to 12.0.0
